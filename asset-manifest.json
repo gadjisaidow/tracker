@@ -1,0 +1,25 @@
+{
+  "files": {
+    "app.js": "/gadjisaidow/track.git/static/js/app.4ee96090.chunk.js",
+    "app.js.map": "/gadjisaidow/track.git/static/js/app.4ee96090.chunk.js.map",
+    "runtime~app.js": "/gadjisaidow/track.git/static/js/runtime~app.92a48ebd.js",
+    "runtime~app.js.map": "/gadjisaidow/track.git/static/js/runtime~app.92a48ebd.js.map",
+    "static/js/2.0977dc14.chunk.js": "/gadjisaidow/track.git/static/js/2.0977dc14.chunk.js",
+    "static/js/2.0977dc14.chunk.js.map": "/gadjisaidow/track.git/static/js/2.0977dc14.chunk.js.map",
+    "favicon-16.png": "/gadjisaidow/track.git/favicon-16.png",
+    "favicon-32.png": "/gadjisaidow/track.git/favicon-32.png",
+    "favicon.ico": "/gadjisaidow/track.git/favicon.ico",
+    "index.html": "/gadjisaidow/track.git/index.html",
+    "manifest.json": "/gadjisaidow/track.git/manifest.json",
+    "serve.json": "/gadjisaidow/track.git/serve.json",
+    "static/js/2.0977dc14.chunk.js.LICENSE.txt": "/gadjisaidow/track.git/static/js/2.0977dc14.chunk.js.LICENSE.txt",
+    "static/media/Benner.png": "/gadjisaidow/track.git/static/media/Benner.2666ac48.png",
+    "static/media/temno.png": "/gadjisaidow/track.git/static/media/temno.a62d8579.png",
+    "static/media/track.png": "/gadjisaidow/track.git/static/media/track.1c381d8e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.92a48ebd.js",
+    "static/js/2.0977dc14.chunk.js",
+    "static/js/app.4ee96090.chunk.js"
+  ]
+}
